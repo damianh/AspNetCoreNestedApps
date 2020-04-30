@@ -1,2 +1,1 @@
-# AspNetCoreNestedApps
-Example of hosting isolated aspnet core applications within a single host.
+Moved to https://github.com/damianh/patterns
